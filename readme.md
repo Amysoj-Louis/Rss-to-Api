@@ -1,7 +1,7 @@
 # Rss to Api #
 Hi, I have created an api that will allow you to convert rss to api. It filters all the rss feeds containing the word "gold". I have used Rss feed from 3 News firms
 
-### Example Output ###:
+### Example Output ###
 
 {
     "data": {
